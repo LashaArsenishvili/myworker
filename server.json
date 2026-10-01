@@ -1,1 +1,6 @@
-https://1a85-94-43-195-4.ngrok-free.app/
+{
+  "https_url": "https://1a85-94-43-195-4.ngrok-free.app/",
+  "wss_url": "wss://xxxx.ngrok-free.app/ws",
+  "updated_at": "2026-10-01T...",
+  "version": 123456789
+}
